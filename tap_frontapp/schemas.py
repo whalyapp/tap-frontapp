@@ -49,7 +49,7 @@ PK_FIELDS = {
     IDS.NEW_CONVERSATIONS_GRAPH: ['analytics_date', 'analytics_range', 'start', 'end'],
     IDS.REPLIES_SENT_GRAPH: ['analytics_date', 'analytics_range', 'start', 'end'],
     IDS.RESOLUTION_GRAPH: ['analytics_date', 'analytics_range', 'start', 'end'],
-    IDS.RESPONSE_GRAPH: ['analytics_date', 'analytics_range', 'start', 'end']
+    IDS.RESPONSE_GRAPH: ['analytics_date', 'analytics_range', 'start', 'end'],
     IDS.TAGS_TABLE: ['analytics_date', 'analytics_range', 'tag_v'],
     IDS.CUSTOMERS_TABLE: ['analytics_date', 'analytics_range', 'resource_t', 'resource_v'],
     IDS.FIRST_RESPONSE_HISTO: ['analytics_date', 'analytics_range', 'time_v'],
